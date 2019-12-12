@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <h2>Abbreviation element for American English </h2>
+    <abbr title="American English">AE</abbr> is abbrevated but show in full when the cusor is placed on it.
+
+    <h2>Define "x" as a varriable</h2>
+    <var>x</var>
+
+    <h2> A simple math equation </h2>
+    <p><var>x</var> = 3 + 2;</p>
+    <p><var>x</var> = 5 </p>
+    <script src="script.js"></script>
+  </body>
