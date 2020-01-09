@@ -1,1 +1,15 @@
-
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>HEX color value</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <script src="script.js"></script>
+    <h1 class="title">Hexadecimal color values </h1>
+    <p class="name">They are usually represented with numbers and letter.<br> In order for the color value to take effect, the use of hashtag as a prefix is significate, so the computer can read its value.</p>
+    <button class="try">TRY IT NOW</button>
+  </body>
+</html> 
